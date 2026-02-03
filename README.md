@@ -1,4 +1,4 @@
-# Check My DNS API
+# Check My DNS Mobile API
 
 The **Check My DNS API** is the official backend service powering the **Check My DNS Mobile App**.  
 It provides DNS check and verification functionality optimized for mobile usage, ensuring accurate, private, and fast DNS testing on any network.
